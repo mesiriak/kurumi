@@ -1,0 +1,9 @@
+# IDE FILES
+.idea
+__pycache__
+
+# SYSTEM FILES
+.DS_Store
+
+# DEVELOPMENT
+.env
